@@ -14,7 +14,12 @@ config.font = wezterm.font 'PlemolJP Console NF'
 config.font_size = 30
 
 config.window_background_gradient = {
-  colors = { '#2F3857', '#0f0c29' },
+  colors = {
+    '#4375D9',
+    '#304173',
+    '#2F3857',
+    '#0f0c29'
+  },
   orientation = {
     Radial = {
       cx = 0.5,

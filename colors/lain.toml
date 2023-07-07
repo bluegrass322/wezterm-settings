@@ -1,0 +1,37 @@
+[colors]
+background = '#2F3857'
+foreground = '#439fb6'
+
+cursor_bg = '#bbbbbb'
+cursor_border = '#bbbbbb'
+cursor_fg = '#ffffff'
+
+selection_bg = '#b5d5ff'
+selection_fg = '#000000'
+
+ansi = [
+  '#323145', # black
+  '#bb0000', # maroon
+  '#439fb6', # green
+  '#bbbb00', # olive
+  '#0000bb', # navy
+  '#bb00bb', # purple
+  '#00bbbb', # teal
+  '#bbbbbb', # silver
+]
+
+brights = [
+  '#555555', # grey
+  '#bf1725', # red
+  '#55ff55', # lime
+  '#E8E8A1', # yellow
+  '#5555ff', # blue
+  '#ff55ff', # fuchsia
+  '#55ffff', # aqua
+  '#dce7e9', # white
+]
+
+[colors.indexed]
+
+[metadata]
+name = 'lain'

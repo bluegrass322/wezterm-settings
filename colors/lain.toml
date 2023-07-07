@@ -2,32 +2,33 @@
 background = '#2F3857'
 foreground = '#439fb6'
 
-cursor_bg = '#bbbbbb'
-cursor_border = '#bbbbbb'
-cursor_fg = '#ffffff'
-
-selection_bg = '#b5d5ff'
-selection_fg = '#000000'
+# need change>
+cursor_bg = '#c6c8d1'
+cursor_border = '#c6c8d1'
+cursor_fg = '#161821'
+selection_bg = '#c6c8d1'
+selection_fg = '#161821'
+# <need change
 
 ansi = [
   '#323145', # black
-  '#bb0000', # maroon
+  '#e27878', # maroon*
   '#439fb6', # green
-  '#bbbb00', # olive
-  '#0000bb', # navy
-  '#bb00bb', # purple
-  '#00bbbb', # teal
-  '#bbbbbb', # silver
+  '#e2a478', # olive*
+  '#84a0c6', # navy*
+  '#a093c7', # purple*
+  '#89b8c2', # teal
+  '#c6c8d1', # silver
 ]
 
 brights = [
-  '#555555', # grey
+  '#6b7089', # grey*
   '#bf1725', # red
-  '#55ff55', # lime
+  '#c0ca8e', # lime*
   '#E8E8A1', # yellow
-  '#5555ff', # blue
-  '#ff55ff', # fuchsia
-  '#55ffff', # aqua
+  '#91acd1', # blue*
+  '#ada0d3', # fuchsia*
+  '#95c4ce', # aqua*
   '#dce7e9', # white
 ]
 
